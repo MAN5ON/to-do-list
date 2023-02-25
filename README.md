@@ -1,8 +1,8 @@
 # TO DO LIST
 
-**Использованы:** **``ReactJS``** **``TypeScript``** **``Tailwind``**
+**Использованы:** **`ReactJS`** **`TypeScript`** **`Tailwind`**
 
-Команды для работы с проектом npm run + **`command`**
+Команды для работы с проектом **`npm run`** + **`command`**
 ```json
 "scripts": {
 	"dev": "vite",
